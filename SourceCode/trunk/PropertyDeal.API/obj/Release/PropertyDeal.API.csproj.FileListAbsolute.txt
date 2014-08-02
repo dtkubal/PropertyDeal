@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\PropertyDeal\PropertyDeal.API\bin\Release\PropertyDeal.API.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\PropertyDeal\PropertyDeal.API\bin\Release\PropertyDeal.API.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\PropertyDeal\PropertyDeal.API\obj\Release\PropertyDeal.API.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\PropertyDeal\PropertyDeal.API\obj\Release\PropertyDeal.API.pdb
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.API\bin\Release\PropertyDeal.API.dll
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.API\bin\Release\PropertyDeal.API.pdb
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.API\obj\Release\PropertyDeal.API.dll
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.API\obj\Release\PropertyDeal.API.pdb

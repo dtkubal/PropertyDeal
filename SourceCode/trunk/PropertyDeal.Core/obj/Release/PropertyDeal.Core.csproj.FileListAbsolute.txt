@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\PropertyDeal\PropertyDeal.Core\bin\Release\PropertyDeal.Core.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\PropertyDeal\PropertyDeal.Core\bin\Release\PropertyDeal.Core.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\PropertyDeal\PropertyDeal.Core\obj\Release\PropertyDeal.Core.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\PropertyDeal\PropertyDeal.Core\obj\Release\PropertyDeal.Core.pdb
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.Core\bin\Release\PropertyDeal.Core.dll
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.Core\bin\Release\PropertyDeal.Core.pdb
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.Core\obj\Release\PropertyDeal.Core.dll
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.Core\obj\Release\PropertyDeal.Core.pdb

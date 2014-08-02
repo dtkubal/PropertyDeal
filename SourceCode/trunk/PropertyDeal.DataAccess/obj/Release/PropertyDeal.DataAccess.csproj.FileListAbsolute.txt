@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\PropertyDeal\PropertyDeal.DataAccess\bin\Release\PropertyDeal.DataAccess.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\PropertyDeal\PropertyDeal.DataAccess\bin\Release\PropertyDeal.DataAccess.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\PropertyDeal\PropertyDeal.DataAccess\obj\Release\PropertyDeal.DataAccess.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\PropertyDeal\PropertyDeal.DataAccess\obj\Release\PropertyDeal.DataAccess.pdb
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.DataAccess\bin\Release\PropertyDeal.DataAccess.dll
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.DataAccess\bin\Release\PropertyDeal.DataAccess.pdb
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.DataAccess\obj\Release\PropertyDeal.DataAccess.dll
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.DataAccess\obj\Release\PropertyDeal.DataAccess.pdb
