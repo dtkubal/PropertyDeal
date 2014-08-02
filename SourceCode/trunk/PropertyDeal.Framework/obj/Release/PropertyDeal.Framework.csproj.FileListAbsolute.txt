@@ -6,3 +6,9 @@ E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.Framework\bin
 E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.Framework\bin\Release\PropertyDeal.Framework.pdb
 E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.Framework\obj\Release\PropertyDeal.Framework.dll
 E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.Framework\obj\Release\PropertyDeal.Framework.pdb
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.Framework\bin\Release\PropertyDeal.Framework.dll.config
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.Framework\bin\Release\EntityFramework.dll
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.Framework\bin\Release\EntityFramework.SqlServer.dll
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.Framework\bin\Release\EntityFramework.xml
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.Framework\bin\Release\EntityFramework.SqlServer.xml
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.Framework\obj\Release\PropertyDeal.Framework.csprojResolveAssemblyReference.cache

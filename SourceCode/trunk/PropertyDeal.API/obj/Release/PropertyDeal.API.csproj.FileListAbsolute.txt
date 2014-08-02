@@ -6,3 +6,8 @@ E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.API\bin\Relea
 E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.API\bin\Release\PropertyDeal.API.pdb
 E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.API\obj\Release\PropertyDeal.API.dll
 E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.API\obj\Release\PropertyDeal.API.pdb
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.API\bin\Release\PropertyDeal.Core.dll
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.API\bin\Release\EntityFramework.dll
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.API\bin\Release\PropertyDeal.Core.pdb
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.API\bin\Release\EntityFramework.xml
+E:\Dyno\Projects\GitRep\PropertyDeal\SourceCode\trunk\PropertyDeal.API\obj\Release\PropertyDeal.API.csprojResolveAssemblyReference.cache

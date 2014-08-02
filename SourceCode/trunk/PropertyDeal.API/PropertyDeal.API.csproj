@@ -40,7 +40,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Address.cs" />
+    <Compile Include="Enum\CommercialPropertyType.cs" />
+    <Compile Include="Enum\LandPropertyType.cs" />
+    <Compile Include="Enum\PropertyType.cs" />
+    <Compile Include="Models\BuildingFeatures.cs" />
+    <Compile Include="Models\Features.cs" />
+    <Compile Include="Models\ResidentialApartmentFeatures.cs" />
+    <Compile Include="Models\ResidentialApartment.cs" />
+    <Compile Include="Models\ResidentialApartmentAddress.cs" />
+    <Compile Include="Models\ResidentialProperty.cs" />
+    <Compile Include="Enum\ResidentialPropertyType.cs" />
+    <Compile Include="Models\Property.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Service\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PropertyDeal.Core\PropertyDeal.Core.csproj">
+      <Project>{87E84111-38A3-47D8-9BBB-5A6A1232D2E4}</Project>
+      <Name>PropertyDeal.Core</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
